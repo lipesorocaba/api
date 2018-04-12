@@ -17,6 +17,8 @@ class cultoController extends controller {
     }
     public function addReuniao(){
 
+        //recebe o post aqui.
+
 
         if($_SERVER['REQUEST_METHOD'] =='GET'){
 
